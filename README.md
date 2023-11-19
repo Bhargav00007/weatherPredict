@@ -1,0 +1,2 @@
+# weatherPredict
+linear regression based
